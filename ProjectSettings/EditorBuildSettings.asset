@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level-0.unity
+    guid: 038fab1e9acdb0a44a17c771428ddcf8
+  - enabled: 1
+    path: Assets/Scenes/Level-1.unity
+    guid: 7272c154473727542b69554c0c0d64c3
+  - enabled: 1
+    path: Assets/Scenes/Transition-1.unity
+    guid: abaf85fffde762f43b6d624d2ff3e8fe
+  - enabled: 1
+    path: Assets/Scenes/Level-2.unity
+    guid: 95c55a1dd62a4754c979575f8f38a81f
+  - enabled: 1
+    path: Assets/Scenes/Transition-2.unity
+    guid: 3bd2406bd253cea49b598ba79a204de7
+  - enabled: 1
+    path: Assets/Scenes/Level-3.unity
+    guid: fbaaedcfa7b62f14bb559dfe54ca0876
+  - enabled: 1
+    path: Assets/Scenes/Transition-3.unity
+    guid: 721748e260ebc1f42bdddd92a65fe33e
+  - enabled: 1
+    path: Assets/Scenes/Level-4.unity
+    guid: 84f839f65b219cd49bb0feb178147f8f
+  - enabled: 1
+    path: Assets/Scenes/Transition-4.unity
+    guid: 216d62f78ce0b914791f72847771d24b
+  - enabled: 1
+    path: Assets/Scenes/Level-5.unity
+    guid: 77b7c6907f3472343a948a62917caa46
+  - enabled: 1
+    path: Assets/Scenes/Transition-5.unity
+    guid: 1e06d93ca7d30d942a116933feb8b41b
+  - enabled: 1
+    path: Assets/Scenes/Level-6.unity
+    guid: 770f22e7051250441b5ea59094a24d9b
+  - enabled: 1
+    path: Assets/Scenes/Transition-6.unity
+    guid: 22de9802de465b843b3d3b0152ad90ae
+  - enabled: 1
+    path: Assets/Scenes/Level-8.unity
+    guid: b53b7cf8ddf5d814682895dc7668596b
+  m_configObjects: {}

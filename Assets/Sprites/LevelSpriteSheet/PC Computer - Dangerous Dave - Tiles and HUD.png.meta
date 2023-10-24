@@ -1,0 +1,1939 @@
+fileFormatVersion: 2
+guid: 4e86700730ab51b4b9ae31be056e22ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6490f06d92cecd044ab2a32246b4cd93
+      internalID: -995010505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946cd0342cbe83f4390fdce1c4412be1
+      internalID: -1887054092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868a900e88ae5540ab0c342ada42e6d
+      internalID: 1034077592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 405
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f8fb7dfaebf748ae785efc4b897dc
+      internalID: -2076606818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 406
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ef1124cac6d444a03c965ff0b4dde
+      internalID: 132174377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 405
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5cc7eb389cb94f97ef5ffea5bb0bd
+      internalID: -341202413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725dae06fe8d13b45940d02d0dfa1f79
+      internalID: 1463126925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc54c095de228489e26331c54dce84
+      internalID: 1426657603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19b6c8517166f4c8c9910d678cefb4
+      internalID: 896773024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff07f261fc1613c4baf1da5a8638ca82
+      internalID: 1463901459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41ec080719eb374db9298cdd36f393f
+      internalID: 1938091821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 521
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95a4ee2e3975a44b5276eeaae987b7
+      internalID: -1553963763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 521
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a92357673fd14548822d8cc37e087d7
+      internalID: 1379050718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 521
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e4b7f801171f43a77d35cc1d417ce
+      internalID: 570300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 176
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82fa61b89d939745b0e4e8976cf39ee
+      internalID: 1135187946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22db5f6a0849be46b5bf1cc48bca1d5
+      internalID: 328088556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a382cf7c29af4db75583eed0a4832
+      internalID: 1575553021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552cdeaad91eb7e4ea18b7c1544e7aa9
+      internalID: 1482871951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25530b837316e445a97dd5b6068eb80
+      internalID: 1697551987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d58a21f5f1b24419aef76c228ce6e1
+      internalID: 802681509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59a39b42c3a974f9731f98dd7c5ad6
+      internalID: 157895627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b83bacf93dfb547b39aadf30eeb638
+      internalID: 308204206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb0d386c38dd54eb70371da4d3c14d
+      internalID: 1487247466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4487a85e8819a4042b18fb6820533f10
+      internalID: -1304814748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 521
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f9305db87f4c4698128efc9ef3e7e
+      internalID: 648829252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf732c1e66cae42ab006c0a995e726
+      internalID: 1453073685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8470920431b6b4283e5253eada5546
+      internalID: -2009790027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 442
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ddabfb8d9c21844a15e61d52288b33
+      internalID: -2052429947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fcb81624c35bc4e8f1cdff3300d025
+      internalID: 100705127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93f7ce546512a84ebcc9eabe20e19bc
+      internalID: -819698379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3552d85dc0864b8880d588ff58ffa
+      internalID: -1946643201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d5e093b4da1ed46a37a608ba94e442
+      internalID: -998099501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da2483b0883074fa84a5e65ff35994
+      internalID: -1829365160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc184efe0910f2429f0187d3c3ba3a3
+      internalID: -982438523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083fdc6771fe59648b610580b5f48cca
+      internalID: -2144316756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4ca01694bb7a74c9092617ead4c8ba
+      internalID: 1465726582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295cc8ffe663f4479aea5d3f60437c0
+      internalID: 1313367101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c06e4cb5bbcb44b11acee8c9e87a8
+      internalID: 75344310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f5ae60f0c4c90408b3441e63c7ae5e
+      internalID: 30815687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5376ffe846cff4793de8951b341c45
+      internalID: 181142164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92f174fdc8b2d840b2c482e6de7896c
+      internalID: 506234564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0957b1d2568a7bc499b5d9e0dc5c065a
+      internalID: 443434053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e854fdd97828024c9322e9b08d8650d
+      internalID: -1986820192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 454
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96312cebd5cd7c4da8933bc7a050ebc
+      internalID: 769867106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083fbc1b1a123fc44a89cae909d65012
+      internalID: -9035035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1676317d09f99409f67fad1e9fd2e3
+      internalID: 1264286320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c4bde721c245e4d891b2897f5c0a86
+      internalID: 156146617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dc936943beac94b91f0a0e8ac3b9fc
+      internalID: -1502017056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b4c40b3f184d4b852b16482440019
+      internalID: -374331076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d564f6371fcf34299407c0420f75db
+      internalID: -524897418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca15585abe8e8746b2595d67a2ab430
+      internalID: 645955556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a95c908d65764284f6aff7d2145e5
+      internalID: 442557878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 455
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b0b52ba9db7d42a5fbf32ed1be6ae
+      internalID: -1295260148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 455
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e6a4d4c542a740a51e8460873b935
+      internalID: 1287720559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 454
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee8b7c9787faf84b978ea5fcde0336a
+      internalID: 1995066084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 332
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1120e1ce6c3702341b180bd98aaaf500
+      internalID: -551233090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 316
+        width: 129
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c6cc89ae801f843b72edbfd710b322
+      internalID: -1586214025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 316
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291a0307e6fe1bc48bfd15b2d080ff5e
+      internalID: -643025391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 521
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53f0c7413657e3468a78b7adc363ceb
+      internalID: 1878206081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 505
+        width: 128
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc4b38ffe37254799261d901035427
+      internalID: -9133388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 505
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b568c31744fd348890615f1061f3af
+      internalID: 1780360083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265a45b097b00bf46881a05e929d212c
+      internalID: -2008993148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 521
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbac42aad5f83d499fa780d56623334
+      internalID: -1216566958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 505
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3896534a516ab6b42bc25c83ccfabae9
+      internalID: 1726647828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac09770ad83274fb1f855c8b855fac
+      internalID: 1705673538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 536
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e05b428fb8e5214b94cd9e411aec047
+      internalID: 1850533663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 536
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422a11aa92c71b42bf1b05979c77fe0
+      internalID: -1942040522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_67
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 536
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c96b888811b2419f78faced6255a8
+      internalID: -1440182010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 536
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952a31372aa6bf46bd2173ed9fe2973
+      internalID: 735768480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fce04066ea7f049814eabd04930751
+      internalID: -1600807804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ac6e887c21044e88013f61fe4fab4
+      internalID: 770556748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4ba6dc37b6ae42bead838ad2da692
+      internalID: -359404085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8be830c8deec644ac2e06f1185d976
+      internalID: 1766735213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682f7a511edb66742afd0a0839e17d29
+      internalID: 178017630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26cc02145d18f844a35aadc057ed8b0
+      internalID: 2037837327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02db8b75f49e5694cb3bbede7523c68e
+      internalID: 249757764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_76
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e167bc03316734d9b7c449cb271c16
+      internalID: 851945690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 437
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf8ae307523e44083ccd2451f89151
+      internalID: 194368167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d857b32efe8f4b84a31ebd46c6327
+      internalID: -881391396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_79
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf7763eb3a8c243a2c68765fce5130
+      internalID: 1593145298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68de3f0b98931747894280fa6d305a0
+      internalID: -762832669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dangerous Dave - Tiles and HUD_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5a95797dff47478aa73eeece058f4
+      internalID: 1526809068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Dangerous Dave - Tiles and HUD_0: -995010505
+      PC Computer - Dangerous Dave - Tiles and HUD_1: -1887054092
+      PC Computer - Dangerous Dave - Tiles and HUD_10: 1938091821
+      PC Computer - Dangerous Dave - Tiles and HUD_11: -2013956866
+      PC Computer - Dangerous Dave - Tiles and HUD_12: 1379050718
+      PC Computer - Dangerous Dave - Tiles and HUD_13: 570300648
+      PC Computer - Dangerous Dave - Tiles and HUD_14: 1135187946
+      PC Computer - Dangerous Dave - Tiles and HUD_15: 328088556
+      PC Computer - Dangerous Dave - Tiles and HUD_16: 1575553021
+      PC Computer - Dangerous Dave - Tiles and HUD_17: 1482871951
+      PC Computer - Dangerous Dave - Tiles and HUD_18: 1697551987
+      PC Computer - Dangerous Dave - Tiles and HUD_19: 802681509
+      PC Computer - Dangerous Dave - Tiles and HUD_2: 1034077592
+      PC Computer - Dangerous Dave - Tiles and HUD_20: 157895627
+      PC Computer - Dangerous Dave - Tiles and HUD_21: 308204206
+      PC Computer - Dangerous Dave - Tiles and HUD_22: 1487247466
+      PC Computer - Dangerous Dave - Tiles and HUD_23: -1304814748
+      PC Computer - Dangerous Dave - Tiles and HUD_24: 648829252
+      PC Computer - Dangerous Dave - Tiles and HUD_25: 1453073685
+      PC Computer - Dangerous Dave - Tiles and HUD_26: -2009790027
+      PC Computer - Dangerous Dave - Tiles and HUD_27: -2052429947
+      PC Computer - Dangerous Dave - Tiles and HUD_28: -1910869649
+      PC Computer - Dangerous Dave - Tiles and HUD_29: 100705127
+      PC Computer - Dangerous Dave - Tiles and HUD_3: -2076606818
+      PC Computer - Dangerous Dave - Tiles and HUD_30: 1547082872
+      PC Computer - Dangerous Dave - Tiles and HUD_31: -819698379
+      PC Computer - Dangerous Dave - Tiles and HUD_32: -1829365160
+      PC Computer - Dangerous Dave - Tiles and HUD_33: -982438523
+      PC Computer - Dangerous Dave - Tiles and HUD_34: -2144316756
+      PC Computer - Dangerous Dave - Tiles and HUD_35: 1465726582
+      PC Computer - Dangerous Dave - Tiles and HUD_36: 1313367101
+      PC Computer - Dangerous Dave - Tiles and HUD_37: 75344310
+      PC Computer - Dangerous Dave - Tiles and HUD_38: 30815687
+      PC Computer - Dangerous Dave - Tiles and HUD_39: 181142164
+      PC Computer - Dangerous Dave - Tiles and HUD_4: 132174377
+      PC Computer - Dangerous Dave - Tiles and HUD_40: 506234564
+      PC Computer - Dangerous Dave - Tiles and HUD_41: 443434053
+      PC Computer - Dangerous Dave - Tiles and HUD_42: -1986820192
+      PC Computer - Dangerous Dave - Tiles and HUD_43: 769867106
+      PC Computer - Dangerous Dave - Tiles and HUD_44: 707787544
+      PC Computer - Dangerous Dave - Tiles and HUD_45: -9035035
+      PC Computer - Dangerous Dave - Tiles and HUD_46: 1264286320
+      PC Computer - Dangerous Dave - Tiles and HUD_47: -1502017056
+      PC Computer - Dangerous Dave - Tiles and HUD_48: -374331076
+      PC Computer - Dangerous Dave - Tiles and HUD_49: -524897418
+      PC Computer - Dangerous Dave - Tiles and HUD_5: -341202413
+      PC Computer - Dangerous Dave - Tiles and HUD_50: 645955556
+      PC Computer - Dangerous Dave - Tiles and HUD_51: 442557878
+      PC Computer - Dangerous Dave - Tiles and HUD_52: -1295260148
+      PC Computer - Dangerous Dave - Tiles and HUD_53: 1287720559
+      PC Computer - Dangerous Dave - Tiles and HUD_54: 1995066084
+      PC Computer - Dangerous Dave - Tiles and HUD_55: -551233090
+      PC Computer - Dangerous Dave - Tiles and HUD_56: -1586214025
+      PC Computer - Dangerous Dave - Tiles and HUD_57: -643025391
+      PC Computer - Dangerous Dave - Tiles and HUD_58: 1878206081
+      PC Computer - Dangerous Dave - Tiles and HUD_59: -9133388
+      PC Computer - Dangerous Dave - Tiles and HUD_6: 1463126925
+      PC Computer - Dangerous Dave - Tiles and HUD_60: 1780360083
+      PC Computer - Dangerous Dave - Tiles and HUD_61: -2008993148
+      PC Computer - Dangerous Dave - Tiles and HUD_62: -1216566958
+      PC Computer - Dangerous Dave - Tiles and HUD_63: 1726647828
+      PC Computer - Dangerous Dave - Tiles and HUD_64: 1705673538
+      PC Computer - Dangerous Dave - Tiles and HUD_65: 1850533663
+      PC Computer - Dangerous Dave - Tiles and HUD_66: -1942040522
+      PC Computer - Dangerous Dave - Tiles and HUD_67: -1440182010
+      PC Computer - Dangerous Dave - Tiles and HUD_68: 735768480
+      PC Computer - Dangerous Dave - Tiles and HUD_69: -1600807804
+      PC Computer - Dangerous Dave - Tiles and HUD_7: 1426657603
+      PC Computer - Dangerous Dave - Tiles and HUD_70: 770556748
+      PC Computer - Dangerous Dave - Tiles and HUD_71: -359404085
+      PC Computer - Dangerous Dave - Tiles and HUD_72: 1766735213
+      PC Computer - Dangerous Dave - Tiles and HUD_73: 178017630
+      PC Computer - Dangerous Dave - Tiles and HUD_74: 2037837327
+      PC Computer - Dangerous Dave - Tiles and HUD_75: 249757764
+      PC Computer - Dangerous Dave - Tiles and HUD_76: 851945690
+      PC Computer - Dangerous Dave - Tiles and HUD_77: 194368167
+      PC Computer - Dangerous Dave - Tiles and HUD_78: -881391396
+      PC Computer - Dangerous Dave - Tiles and HUD_79: 1593145298
+      PC Computer - Dangerous Dave - Tiles and HUD_8: 896773024
+      PC Computer - Dangerous Dave - Tiles and HUD_80: -762832669
+      PC Computer - Dangerous Dave - Tiles and HUD_81: 1526809068
+      PC Computer - Dangerous Dave - Tiles and HUD_9: 1463901459
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
