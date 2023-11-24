@@ -2,87 +2,43 @@ using UnityEngine;
 
 public class JetController : MonoBehaviour
 {
-    public float jetSpeed = 5f; // Speed of jetpack movement
-    public float maxJetDuration = 5f; // Maximum duration of jetpack use
-    public float jetForce = 10f; // Force applied when using the jetpack
+    public float moveSpeed = 5f; // Adjust the speed as needed
 
-    private bool isJetActive = false;
-    private float jetDuration = 0f;
     private Rigidbody2D rb;
-    private bool isMovingVertically = false;
+    private bool isMoving = false;
 
-    private void Start()
+    void Start()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
-    private void Update()
+    void Update()
     {
-        // Check if both Alt keys are pressed
-        if (Input.GetKey(KeyCode.LeftAlt) || Input.GetKey(KeyCode.RightAlt))
+        if (Input.GetKeyDown(KeyCode.LeftAlt) || Input.GetKeyDown(KeyCode.RightAlt))
         {
-            if (!isJetActive)
-            {
-                Debug.Log("Alt keys pressed. Activating jetpack.");
-                ActivateJetpack();
-            }
-            else
-            {
-                DeactivateJetpack();
-            }
+            ToggleMovement();
         }
 
-        if (isJetActive)
+        if (isMoving)
         {
-            // Use input from arrow keys to control jet movement
-            float horizontalInput = Input.GetAxis("Horizontal");
-            float verticalInput = Input.GetAxis("Vertical");
-
-            // Check for vertical movement
-            if (verticalInput != 0f)
-            {
-                isMovingVertically = true;
-                rb.velocity = new Vector2(rb.velocity.x, verticalInput * jetSpeed);
-            }
-            else
-            {
-                rb.velocity = Vector2.zero; // No movement
-                isMovingVertically = false;
-            }
-
-            // Decrease jet duration
-            jetDuration -= Time.deltaTime;
-
-            // Apply jet force
-            if (isMovingVertically)
-            {
-                rb.AddForce(Vector2.up * jetForce, ForceMode2D.Force);
-            }
-
-            // Deactivate jetpack if duration is over
-            if (jetDuration <= 0f)
-            {
-                DeactivateJetpack();
-            }
+            Move();
         }
     }
 
-    // Call this method when the player collects the jet icon item
-    public void ActivateJetpack()
+    void Move()
     {
-        isJetActive = true;
-        jetDuration = maxJetDuration;
-        rb.gravityScale = 0f; // Disable gravity
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+
+        Vector2 movement = new Vector2(horizontalInput, verticalInput);
+        //movement.Normalize(); // Normalize to ensure constant speed in all directions
+
+        rb.velocity = movement * moveSpeed;
     }
 
-    // Deactivate the jetpack
-    private void DeactivateJetpack()
+    void ToggleMovement()
     {
-        isJetActive = false;
-        rb.gravityScale = 1f; // Restore normal gravity
-        rb.velocity = new Vector2(rb.velocity.x, 0f); // Reset vertical velocity
+        isMoving = !isMoving;
+        rb.velocity = Vector2.zero; // Stop the player immediately when toggling off movement
     }
-
-    // Property to check if the jetpack is active
-    public bool IsJetActive => isJetActive;
 }

@@ -24,33 +24,25 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private AudioSource walkSound;
 
     private bool isMovementEnabled = true; // Flag to control player movement
+    private bool isGravityEnabled = true; // Flag to control gravity
 
+    private JetController jet;
+
+    private void Start()
+    {
+        jet = GetComponent<JetController>();
+    }
     private void Update()
     {
-        if (Input.GetKey(KeyCode.LeftAlt) || Input.GetKey(KeyCode.RightAlt))
+        if (jet != null && jet.isActiveAndEnabled)
         {
-            if (isMovementEnabled)
-            {
-                // Disable player movement and set jet animation
-                rb.velocity = Vector2.zero; // Stop player movement
-                animator.SetFloat("Speed", 0f); // Stop regular walking animation
-                isMovementEnabled = false;
-            }
-            else
-            {
-                // Enable player movement
-                isMovementEnabled = true;
-            }
-
-            // Toggle jet animation
-            animator.SetBool("IsJetActive", !isMovementEnabled);
-            return; // Exit the method to prevent further movement code from executing
+                    if (Input.GetKeyDown(KeyCode.LeftAlt) || Input.GetKeyDown(KeyCode.RightAlt))
+                    {
+                        ToggleGravity();
+                        print("Jet is working Either on or off");
+                    }
         }
-
-        if (!isMovementEnabled)
-        {
-            return; // Exit the method if movement is disabled
-        }
+        
 
         horizontal = Input.GetAxisRaw("Horizontal");
 
@@ -109,6 +101,20 @@ public class PlayerMovement : MonoBehaviour
             Vector3 localScale = transform.localScale;
             localScale.x *= -1f;
             transform.localScale = localScale;
+        }
+    }
+
+    private void ToggleGravity()
+    {
+        isGravityEnabled = !isGravityEnabled;
+        rb.gravityScale = isGravityEnabled ? 1f : 0f;
+        if(!isGravityEnabled )
+        {
+            animator.SetBool("IsJetActive", true);
+        }
+        else
+        {
+            animator.SetBool("IsJetActive", false);
         }
     }
 
