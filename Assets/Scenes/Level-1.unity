@@ -338,8 +338,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 21871377}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.86, y: -3.02, z: 0}
-  m_LocalScale: {x: 1.4939288, y: 1.4939288, z: 1.4939288}
+  m_LocalPosition: {x: -5.066, y: -2.907, z: 0}
+  m_LocalScale: {x: 1.652999, y: 1.652999, z: 1.652999}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1541053135}
@@ -381,7 +381,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.010673873, y: 0.052348375}
+  m_Offset: {x: -0.00328286, y: 0.06848577}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -392,7 +392,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.20191123, y: 0.30950236}
+  m_Size: {x: 0.2795162, y: 0.3417771}
   m_EdgeRadius: 0
 --- !u!50 &21871385
 Rigidbody2D:
@@ -449,9 +449,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.01, y: -0.14}
+  m_Offset: {x: -0, y: -0.1}
   serializedVersion: 2
-  m_Radius: 0.106787406
+  m_Radius: 0.15
 --- !u!114 &21871388
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1444,7 +1444,7 @@ Tilemap:
       - {fileID: 896773024, guid: 4e86700730ab51b4b9ae31be056e22ed, type: 3}
       - {fileID: 1463901459, guid: 4e86700730ab51b4b9ae31be056e22ed, type: 3}
       - {fileID: 1938091821, guid: 4e86700730ab51b4b9ae31be056e22ed, type: 3}
-      m_AnimationSpeed: 8.6873045
+      m_AnimationSpeed: 7.2288284
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
